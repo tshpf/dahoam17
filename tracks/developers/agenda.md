@@ -33,8 +33,9 @@ Facebook is more than just a web site, it's a complex dynamic application used b
 
 1:20 PM - 2:00 PM
 ### HOW GITHUB USES GITHUB TO BUILD AND DEPLOY GITHUB
-Arthur Schreiber, Application Engineer @ GitHub
-Lilli Seyther-Besecke, Account Manager @ GitHub
+[<img src="http://daho.am/wp-content/uploads/2017/05/Arthur.jpg" width="48"> Arthur Schreiber](http://daho.am/speaker/arthur-schreiber/) - Application Engineer @ GitHub
+
+[<img src="http://daho.am/wp-content/uploads/2017/05/Lilli_n-e1495486931238.jpg" width="48"> Lilli Seyther-Besecke](http://daho.am/speaker/lilli-seyther-besecke/) - Account Manager @ GitHub
 
 This talk shares an inside view of how the globally distributed teams at GitHub use the platform to develop GitHub. It demonstrates the cross-team collaboration of engineering, sales, marketing, services as well as legal by highlighting the success criteria that enable GitHub to deploy more than 500 times a week.
 
@@ -44,7 +45,7 @@ This talk shares an inside view of how the globally distributed teams at GitHub 
 
 2:10 PM - 2:50 PM
 ### INTRO TO KUBERNETES - RETHINK SCALABLE INFRASTRUCTURE WITH CONTAINERS
-Max Leonard Inden - Engineer @ CoreOS
+[<img src="http://daho.am/wp-content/uploads/2017/05/unnamed-2.jpg" width="48"> Max Leonard Inden ](http://daho.am/speaker/max-leonard-inden/) - Engineer @ CoreOS
 
 Distributing and deploying software inside (Docker-) containers for security, isolation and ease of use is the new big thing. But once you got all your services nicely wrapped - who takes care of all these containers? Kubernetes, originating from Google, helps you manage containerized applications, as the operating system of your datacenter, treating hundreds of machines as a single resource pool. This talk introduces the core concepts of Kubernetes, its benefits and its huge ecosystem and gives you an idea of how Google controls parts of their gigantic infrastructure.
 
@@ -54,7 +55,7 @@ Distributing and deploying software inside (Docker-) containers for security, is
 
 3:00 PM - 3:40 PM
 ### TIMELION: TIME SERIES PROCESSING AND VISUALIZATION IN KIBANA
-Sylvain Wallez - Elastic
+[<img src="http://daho.am/wp-content/uploads/2017/03/WvGr4jS.jpeg" width="48"> Sylvain Wallez](http://daho.am/speaker/sylvain-wallez/) - Cloud Engineer @ Elastic
 
 Kibana is the well known analytics and dashboarding tool in the Elastic Stack. A lesser known part of it is Timelion, dedicated to time series analysis and visualization. It allows to not only display time series, but also process and combine them with a dedicated expression language. After a quick overview of the recent additions to Kibana, we will explore the various features of Timelion and its powerful language. We'll discover how having dedicated features for the time dimension and using the new pipeline aggregations in Elasticsearch brings a lot of additional insight compared to more traditional visualizations.
 
@@ -65,7 +66,7 @@ Kibana is the well known analytics and dashboarding tool in the Elastic Stack. A
 4:10 PM - 4:50 PM
 
 ### TURN THE SHIP AROUND: ADVENTURES OF ONE DATA TEAM
-Sergii Khomenko - Stylight
+[<img src="http://daho.am/wp-content/uploads/2017/05/Screen-Shot-2017-05-22-at-10.29.03-PM.png" width="48"> Sergii Khomenko](http://daho.am/speaker/sergii-khomenko/) - Lead Data Scientist @ Stylight
 
 Data is the new bacon or Data is the new soil. Yet, it’s still hard to get data processing right without spending too many resources, yet keeping it flexible enough. From another side, by centralizing data expertise in one place, so called BI it’s easy to hit a bottleneck. In this talk, we will walk you through our transformation from centralized BI team to decentralized product-based Data Platform while discussing technical decisions and reasons behind them. From monolithic to completely serverless and back to a balanced hybrid architecture. The talk gives insights into our experience with many AWS services, that from the first look might look helpful, but still have the price to pay.
 
@@ -76,7 +77,7 @@ Data is the new bacon or Data is the new soil. Yet, it’s still hard to get dat
 5:00 PM - 5:40 AM
 
 ### PICASSO'S TERMINAL; MACHINE LEARNING FOR ART AND CREATIVITY
-Gene Kogan
+[<img src="http://daho.am/wp-content/uploads/2017/04/Screen-Shot-2017-04-24-at-4.11.43-PM.png" width="48" > Gene Kogan](http://daho.am/speaker/gene-kogan/) - 🤖 A.I Programmer and Artist
 
 Over the past several years, two trends in machine learning have converged to pique the curiosity of artists working with code: the proliferation of powerful open source deep learning frameworks like TensorFlow and Torch, and the emergence of data-intensive generative models for hallucinating images, sounds, and text as though they came from the oeuvre of Shakespeare, Picasso, or a gigantic database of digitized cats. This talk will review these developments and offer a set of interdisciplinary tools and learning resources for artists and data scientists alike, as well as present a series of live interactive demos enabling artists and musicians to use machine learning in real-time.
 
