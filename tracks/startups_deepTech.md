@@ -106,6 +106,7 @@ We'll have a close look at the evolution of industrial IoT, the disruption that 
 
 ----------------
 
+5:50 PM - 6:30 PM
 ### KEYNOTE: MAKE SOMETHING PEOPLE NEED
 [<img src="http://daho.am/wp-content/uploads/2016/11/static1.squarespace.jpg" width="48"> Kevin Adler](http://daho.am/speaker/kevin-adler/) - Founder @ Miracle Messages
 
