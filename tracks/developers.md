@@ -1,4 +1,4 @@
-# Developer Track: May 30, 2017
+# Developer Agenda: May 30, 2017
 09:25 AM - 09:55 AM
 ### THAT TRUMP MOMENT - WHEN TRAFFIC HITS YOU HARD AND WHAT TO LEARN FROM IT
 [<img src="http://daho.am/wp-content/uploads/2017/03/kaiser-marco-blau-937x937.jpg" width="48"> Marco Kaiser](http://daho.am/speaker/marco-kaiser/) - ZEIT ONLINE
